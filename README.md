@@ -22,7 +22,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Python - [Download & Install Python](https://www.python.org/downloads/) and the pip package manager.
 * Jupyter Notebook - [Download & Install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html).
 
-### Usage - Running Jupyter notebook
+### Usage - Running Jupyter Notebook
 
 ```bash
 # Clone this repository
